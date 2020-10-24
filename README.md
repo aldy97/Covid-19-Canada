@@ -1,6 +1,6 @@
 ## Covid-19 Canada
-
-Group project for HackInstead. Group members: Jagan, Chien, Abhinav and Feng.
+[![HitCount](http://hits.dwyl.com/aldy97/Covid-19-Canada.svg)](http://hits.dwyl.com/aldy97/Covid-19-Canada)
+<br>Group project for HackInstead. Group members: Jagan, Chien, Abhinav and Feng.
 
 ### Purpose of this Project
 
